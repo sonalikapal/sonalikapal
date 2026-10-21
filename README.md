@@ -1,88 +1,59 @@
-## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Sonali Kapal</h1>
 
-**sonalikapal/sonalikapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Developer | Learning, Building & Growing 🚀</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Welcome to my GitHub profile! I'm passionate about learning web development,
+  exploring new technologies, and turning creative ideas into code.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- <!DOCTYPE html>
-<html>
-<head>
-    <title>My Drawing</title>
+---
 
-    <style>
-        body {
-            text-align: center;
-            background: lightblue;
-        }
+### 👩‍💻 About Me
 
-        .house {
-            width: 250px;
-            height: 200px;
-            background: white;
-            margin: 150px auto 0;
-            border: 3px solid black;
-            position: relative;
-        }
+- 🌱 Currently learning HTML, CSS, and web development fundamentals.
+- 🏗️ Building small projects to strengthen my coding skills.
+- 🎨 Interested in creating simple, creative, and user-friendly web experiences.
+- 🤝 Open to collaborating on beginner-friendly projects and learning from other developers.
+- 🎯 Goal: Continuously improve my skills and build meaningful projects.
 
-        .roof {
-            width: 0;
-            height: 0;
-            border-left: 140px solid transparent;
-            border-right: 140px solid transparent;
-            border-bottom: 120px solid brown;
-            position: absolute;
-            top: -120px;
-            left: -15px;
-        }
+### 🛠️ Technologies & Tools
 
-        .door {
-            width: 60px;
-            height: 100px;
-            background: brown;
-            position: absolute;
-            bottom: 0;
-            left: 95px;
-        }
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-        .window {
-            width: 50px;
-            height: 50px;
-            background: skyblue;
-            border: 3px solid black;
-            position: absolute;
-            top: 50px;
-        }
+### 🚀 Featured Project
 
-        .window1 {
-            left: 30px;
-        }
+#### 🏠 My HTML & CSS House Drawing
 
-        .window2 {
-            right: 30px;
-        }
-    </style>
-</head>
+A simple creative project built using HTML and CSS to draw a house with a roof, windows, and a door.
 
-<body>
+**What I practiced:**
+- HTML structure and elements
+- CSS styling and positioning
+- Shapes using CSS borders
+- Layout, colors, and visual design
 
-    <h1>My HTML Drawing 🏠</h1>
+🔗 Explore my repositories to see more of my work!
 
-    <div class="house">
-        <div class="roof"></div>
-        <div class="window window1"></div>
-        <div class="window window2"></div>
-        <div class="door"></div>
-    </div>
+### 📈 My GitHub Journey
 
-</body>
-</html>
+I'm using GitHub to document my learning journey, experiment with code, and share projects as I grow as a developer.
 
+### 🤝 Let's Connect
+
+- 💻 GitHub: [@sonalikapal](https://github.com/sonalikapal)
+
+---
+
+<p align="center">
+  <i>"Every expert was once a beginner. Keep learning, keep building!"</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
