@@ -50,6 +50,25 @@ I'm using GitHub to document my learning journey, experiment with code, and shar
 
 ---
 
+
+
+### 🔥 GitHub Streak Tracker
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sonalikapal&theme=tokyonight&hide_border=true" alt="Sonali's GitHub Streak" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalikapal&show_icons=true&theme=tokyonight&hide_border=true" alt="Sonali's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikapal&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+
 <p align="center">
   <i>"Every expert was once a beginner. Keep learning, keep building!"</i>
 </p>
